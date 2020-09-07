@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Go Course][udemy]!
 - 🌱 I’m currently learning everything oriented to the mobile development and backend development 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and release my own Flutter library.
+- 🥅 2020 Goals: Contribute more to Open Source projects and release more Flutter library/plugins.
 - ⚡ Fun fact: I love to do exercise :D
 
 ### Connect with me:
