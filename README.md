@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://plugins.jetbrains.com/files/9212/97400/icon/pluginIcon.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png" />
 <img align="left" alt="Golang" width="26px" src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" />
