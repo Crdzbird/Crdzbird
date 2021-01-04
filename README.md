@@ -1,11 +1,11 @@
 ### Hi there, I'm Luis Cardoza Bird - aka [Crdzbird][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Go Course][udemy]!
+- 🔭 I’m currently working on a [Go Course][Flutter_Course][udemy]!
 - 🌱 I’m currently learning everything oriented to the mobile development and backend development 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and release more Flutter library/plugins.
-- ⚡ Fun fact: I love to do exercise :D
+- 🥅 2021 Goals: Contribute more to Open Source projects and release more Flutter library/plugins.
+- ⚡ Eager to share and learn new technologies
 
 ### Connect with me:
 
