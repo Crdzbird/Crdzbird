@@ -7,6 +7,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and release more Flutter library/plugins.
 - ⚡ Eager to share and learn new technologies
 
+[Download CV](https://drive.google.com/file/d/1xxBKH7N8PFtEahBu6EJ7oyqFifuxfkSQ/view?usp=share_link "download")
+
 ### Connect with me:
 
 [<img align="left" alt="Crdzbird.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
