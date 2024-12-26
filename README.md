@@ -1,44 +1,68 @@
-### Hi there, I'm Luis Cardoza Bird - aka [Crdzbird][website] 👋
+# 👋 Hello, I'm Luis Cardoza Bird!
 
-## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Go Course][Flutter_Course][udemy]!
-- 🌱 I’m currently learning everything oriented to the mobile development and backend development 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and release more Flutter library/plugins.
-- ⚡ Eager to share and learn new technologies
+I am a **Mobile Developer**, **Backend Developer**, and **AI Engineer** with a passion for exploring the world of technology and open-source. I specialize in building intelligent apps and tools that enhance security and usability.
 
-[Download CV](https://drive.google.com/file/d/1xxBKH7N8PFtEahBu6EJ7oyqFifuxfkSQ/view?usp=share_link "download")
+## 🌟 What I Do
 
-### Connect with me:
+- **AI Engineering:** Crafting smart systems that learn and adapt.
+- **Mobile Development:** Design innovatives apps, scalables and with seamless integration.
+- **Backend Engineering:** Create/Design services implementing various techniques that ensure a secure and fast Server.
+- **Prompt Engineering:** Designing effective prompts to harness the power of AI models.
 
-[<img align="left" alt="Crdzbird.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Crdzbird | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+---
 
-### Languages and Tools:
+## 🛠️ Technologies & Languages
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
-<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/APK_format_icon.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png" />
-<img align="left" alt="Golang" width="26px" src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" />
-<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
-<img align="left" alt="NetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
-<img align="left" alt="Rails" width="26px" src="https://e7.pngegg.com/pngimages/252/10/png-clipart-ruby-on-rails-logo-software-framework-unicorn-ruby-text-logo.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+I'm proficient in a variety of programming languages and technologies, including:
 
-<br />
-<br />
+<p align="center">
+  <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
+  <a href="https://www.apple.com/la/swift/"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138&logo=Kotlin&logoColor=white" /></a>
+  <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&amp;logoColor=white" /></a>
+  <a href="https://www.android.com/intl/es_es/"><img alt="Android" src="https://img.shields.io/badge/Android-7-blue?style=flat" /></a>
+  <a href="https://installc.org"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /></a>  
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://www.ruby-lang.org/en/"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+  <a href="https://go.dev"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat" /></a>
+  <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></a>
+</p>
 
---- 
+---
 
-<img align="left" alt="Crdzbird's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crdzbird&show_icons=true&hide_border=true" />
+## 📊 GitHub Stats
 
-[website]: https://crdzbird-portfolio.herokuapp.com/
-[udemy]: https://udemy.com
-[linkedin]: https://www.linkedin.com/in/luis-cardoza-bird-82a1aa95/
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crdzbird&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Crdzbird&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 📈 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crdzbird&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🎨 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/Crdzbird/count.svg)
+
+---
+
+## 🚀 Let's Connect!
+
+I’m always open to discussing ideas, collaborating on exciting projects, or sharing knowledge. Feel free to reach out to me here on GitHub!
+
+Thank you for visiting my GitHub profile!
+
+---
+
+## ✨ Fun Facts
+
+- 💡 I love exploring new technologies and tools.
+- 🔍 I enjoy solving complex problems through programming and reverse engineering.
+- 🌍 I am constantly learning and adapting to new challenges.
